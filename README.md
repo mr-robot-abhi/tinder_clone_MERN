@@ -1,8 +1,7 @@
 <h1 align="center">Tinder Clone ✨</h1>
 
-![Demo App](/client/public/screenshot-for-readme.png)
+![Demo App](/client/public/tinder1.png)
 
-[Video Tutorial on Youtube](https://youtu.be/o-XOBJRNeqk)
 
 About This Course:
 
