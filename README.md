@@ -1,7 +1,4 @@
-```
 <h1 align="center">Tinder Clone ✨</h1>
-
-
 
 ## About This Project
 
@@ -33,7 +30,7 @@ CLOUDINARY_API_KEY=<your_cloudinary_api_key>
 CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
 CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
 ```
-![Demo Screenshot](/client/public/tinder1.png)![Demo Screenshot](/client/public/tinder1.png)
+![Demo Screenshot](/client/public/tinder1.png)!
 ---
 
 ## Run the App Locally
@@ -51,4 +48,3 @@ CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
    ```bash
    npm run start
    ```
-```
